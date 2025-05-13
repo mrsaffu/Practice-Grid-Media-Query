@@ -23,7 +23,7 @@ h1 {
   display: grid;
   gap: 1rem;
   grid-template-columns: repeat(1, 1fr);
-  grid-template-rows: repeat(1, 1fr);
+  grid-template-rows: repeat(7, 1fr);
 }
  .items {
     background-color: white;
